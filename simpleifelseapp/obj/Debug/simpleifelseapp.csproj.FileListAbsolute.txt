@@ -1,0 +1,9 @@
+c:\users\popy\documents\visual studio 2013\Projects\simpleifelseapp\simpleifelseapp\bin\Debug\simpleifelseapp.exe.config
+c:\users\popy\documents\visual studio 2013\Projects\simpleifelseapp\simpleifelseapp\bin\Debug\simpleifelseapp.exe
+c:\users\popy\documents\visual studio 2013\Projects\simpleifelseapp\simpleifelseapp\bin\Debug\simpleifelseapp.pdb
+c:\users\popy\documents\visual studio 2013\Projects\simpleifelseapp\simpleifelseapp\obj\Debug\simpleifelseapp.csprojResolveAssemblyReference.cache
+c:\users\popy\documents\visual studio 2013\Projects\simpleifelseapp\simpleifelseapp\obj\Debug\simpleifelseapp.PlanetForm.resources
+c:\users\popy\documents\visual studio 2013\Projects\simpleifelseapp\simpleifelseapp\obj\Debug\simpleifelseapp.Properties.Resources.resources
+c:\users\popy\documents\visual studio 2013\Projects\simpleifelseapp\simpleifelseapp\obj\Debug\simpleifelseapp.csproj.GenerateResource.Cache
+c:\users\popy\documents\visual studio 2013\Projects\simpleifelseapp\simpleifelseapp\obj\Debug\simpleifelseapp.exe
+c:\users\popy\documents\visual studio 2013\Projects\simpleifelseapp\simpleifelseapp\obj\Debug\simpleifelseapp.pdb
